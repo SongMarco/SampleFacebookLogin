@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleFacebookLogin</string>
+
+    <string name="facebook_app_id">367488190367299</string>
+</resources>
